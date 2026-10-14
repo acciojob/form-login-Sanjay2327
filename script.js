@@ -1,4 +1,4 @@
-const firstForm = document.forms["form1"]
+const firstForm = document.forms[0]
 function getFormvalue() {
     //Write your code here
 	let fname = form.elements['fname'].value ;
